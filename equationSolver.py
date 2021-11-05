@@ -6,7 +6,7 @@ root.geometry("335x130")
 root.title("Equation Solver")
 root.minsize(335, 130)
 root.maxsize(335, 130)
-root.iconbitmap('C:/Users/Aritra Mandal/Downloads/icon.ico')
+root.iconbitmap('./setup/icon.ico')
 
 
 def cal():
